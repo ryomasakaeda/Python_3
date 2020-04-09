@@ -284,7 +284,7 @@ Reference
 
 ## Homework
 
-- Build a bigram language model using the following file: ``/share/text/WWW.en/txt.en/tsubame00/doc0000000000.txt.gz``
+- Build a bigram language model using the following file: ``doc0000000000.txt.gz``
 - Then write a function to estimate the probability of the sentence: ``The man is in the house.``
     - Hints
         - Ignore all lines starting with ``<PAGE URL=...>`` or ``</PAGE>``
